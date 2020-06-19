@@ -1,2 +1,2 @@
-## Chuc nang
-sjahdsdajkgfds
+## Function
+Detect destination  
